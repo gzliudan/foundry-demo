@@ -1,0 +1,7 @@
+{
+  "network": "goerli",
+  "Counter": {
+    "name": "Counter",
+    "address": "0x7672d06738F9CE913CF4eF96624BBD0B8c0f1FD9"
+  }
+}
